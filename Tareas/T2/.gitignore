@@ -1,0 +1,7 @@
+# ignorar enunciado
+Enunciado.pdf
+# ignorar testcases
+entrega_intermedia/test_publicos/
+# ignorar assets
+entrega_final/assets/
+entrega_final/cliente/assets

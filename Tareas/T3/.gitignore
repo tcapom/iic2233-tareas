@@ -1,0 +1,8 @@
+# ignorar enunciado
+Enunciado.pdf
+# ignorar archivos que no debo modificar
+api.py
+utilidades.py
+run_public_tests.py
+# ignorar carpeta de tests
+test_publicos/

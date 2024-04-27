@@ -1,0 +1,17 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+
+**/T1/Enunciado.pdf
+**/T1/imprimir_tablero.py
+**/T1/tableros.txt
+**/T1/tests/
+**/T1/__pycache__/
